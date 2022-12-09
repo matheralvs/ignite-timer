@@ -33,9 +33,9 @@
 
 ## ✅ About the project
 
-This project is the first ignite Rocketseat challenge from the reactjs study platform.
+This second project is a application web desenvolvido by Rocketseat in the classroom from the reactjs study platform.
 
-The user can register one or several tasks, mark them as completed and delete them.
+User can register a task and add a certain timer to complete the task.
 
 ## 🚀 Technologies
 
